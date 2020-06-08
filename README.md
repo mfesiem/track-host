@@ -6,7 +6,7 @@ Rapidly requests logs to your McAfee SIEM and sort results groupped by host to t
 ```bash
 git clone https://github.com/mfesiem/track-host
 cd track-host
-python3 install -r requirements
+pip install -r requirements.txt
 ```
 
 ### Configure
